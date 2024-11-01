@@ -2,7 +2,7 @@ import java.util.Scanner;
 /**
  * ArrayRataNilai03
  */
-public class ArrayRataNilai03 {
+public class ArrayRataNilai12 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
